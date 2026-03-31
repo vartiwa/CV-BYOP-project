@@ -120,7 +120,7 @@ This project strengthened understanding of:
 ## 13. Submission Checklist (BYOP)
 - [x] Real-world problem identified
 - [x] Solution built using course concepts
-- [ ] Code uploaded to GitHub repository
+- [x] Code uploaded to GitHub repository
 - [x] README explains setup and usage
 - [x] Project report prepared
 
