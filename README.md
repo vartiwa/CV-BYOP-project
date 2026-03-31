@@ -52,10 +52,22 @@ Build a real-time attention monitoring system using OpenCV and Haar Cascade clas
 - No cloud dependency was used so the project runs completely offline.
 
 ## 6. Project Structure
+```text
+CV/
+|-- main.py
+|-- haarcascade_frontalface_default.xml
+|-- haarcascade_eye.xml
+|-- requirements.txt
+|-- README.md
+`-- PROJECT_REPORT.md
+```
+
 - `main.py` - Main real-time detection script.
 - `haarcascade_frontalface_default.xml` - Face detection model.
 - `haarcascade_eye.xml` - Eye detection model.
 - `requirements.txt` - Python dependency list.
+- `README.md` - Setup, usage, and project overview.
+- `PROJECT_REPORT.md` - Detailed BYOP report for submission.
 
 ## 7. Setup Instructions
 ### 7.1 Prerequisites
