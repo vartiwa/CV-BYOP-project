@@ -1,7 +1,8 @@
 # BYOP - Real-Time Student Attention Monitor (Computer Vision)
 
 ## Student Details
-- Name: Varun
+- Name: Varun Tiwari
+- Registration Number: 23BAI10939
 - GitHub Username: vartiwa
 - Contact Email: varunt154@gmail.com
 - Course: Computer Vision

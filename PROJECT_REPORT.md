@@ -3,7 +3,8 @@
 ## Course Information
 - Course: Computer Vision
 - Assignment: Bring Your Own Project (BYOP)
-- Student: Varun
+- Student: Varun Tiwari
+- Registration Number: 23BAI10939
 - GitHub Username: vartiwa
 - Email: varunt154@gmail.com
 - Submission Date: March 31, 2026
